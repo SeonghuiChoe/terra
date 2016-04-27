@@ -1,0 +1,86 @@
+a:link, a:visited, a:active, a:hover{
+text-decoration:none;
+color: #888888;
+}
+
+h3 {
+border-top: 1px solid #ddd;
+border-bottom: 1px dotted #ddd;
+padding:10px 0 10px 0;
+}
+
+.write_table{
+width:100%;
+text-align:left;
+display:table;
+}
+
+.write_row1{
+display:table-row;
+height:35px;
+}
+.write_cell1{
+display:table-cell;
+width:50px;
+}
+.write_cell1_2{
+display:table-cell;
+}
+.write_row2{
+display:table-row;
+}
+.write_cell2{
+display:table-cell;
+}
+.write_cell2_2{
+display:table-cell;
+}
+
+/* write */
+#col2 #write_row{
+width: 96%;
+margin-left: 15px;
+}
+.write_line{
+height: 1px;
+margin: 6px 0 5px;
+}
+#write_row1 span{
+padding-right: 5px;
+margin-right: 4px;
+line-height: 25px;
+}
+#write_row1{
+margin-left: 4px;
+text-align: left;
+padding-left:25px;
+}
+#write_row2 input{
+width: 850px;
+padding: 1px 5px;
+border-radius: 2px;
+border: 1px solid #aaa;
+}
+#write_row3 span{
+vertical-align:top;
+}
+#write_row3 textarea{
+border-radius: 2px;
+padding: 1px 5px;
+line-height: 160%;
+border: 1px solid #aaa;
+width: 850px;
+}
+.write_row4{
+text-align: left;
+}
+.delete_ok{
+text-align: left;
+margin-left: 150px;
+}
+
+/* write_button */
+#write_button{
+text-align:right;
+padding: 5px 40px;
+}

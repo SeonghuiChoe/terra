@@ -1,0 +1,62 @@
+/* 공통 부분 */
+.subin_intro { *min-height:700px; padding:50px 40px; text-align:left; line-height:24px; letter-spacing:-0.5px; }
+
+/* intro_01 테라소개 부분 */
+.bold { font-weight:bold; }
+
+.first h2 { *width:870px; *text-align:center; font-size:32px; padding:10px 0; line-height:50px; *background-color:red; *border-bottom:8px double #696969; }
+.first h2 span { color:#1eb4a8; font-style:italic; }
+.first p { font-size:16px; padding:20px 0 40px 0; *background-color:yellow; }
+.line { border-bottom:1px solid #ddd; }
+
+.second { height:300px; margin:50px 0; *background-color:red;}
+.second div { float:left; width:435px; }
+.second div p { background-color:#1eb4a8; color:#fff; }
+.second img { width:435px; height:300px; }
+
+.second dl { float:left;	width:400px; margin-left:35px; *background-color:red; }
+.second dl dt{ font-size:20px; line-height:30px; line-height:32px; }
+.second dl dd{ font-size:14px; margin-top:15px; }
+
+.third { height:300px; padding-top:20px; *background-color:yellow; }
+.third dl { float:left; width:400px; padding-right:35px; *background-color:red; }
+.third dl dt{ font-size:20px; line-height:30px; letter-spacing:-0.5px; }
+.third dl dd{ font-size:14px; margin-top:15px; }
+.third div { float:left; width:435px; }
+.third img { width:435px; height:300px; }
+
+
+
+/* intro_02 대회소개 부분 */
+.con0, .con1 { margin-bottom:50px; }
+
+.con0 h2 { font-size:32px; padding:10px 0; line-height:50px; }
+.con1 h2, .con2 h2 { font-size:20px; padding-bottom:20px; }
+
+.con1 { *height:380px; }
+.con1 .graph0, .con1 .graph1 { float:left; }
+ 
+.graph0 img { width:600px; }
+.graph1 img { margin-top:250px; width:200px; *position:relative; *right:0;}
+
+.con1 > div { width:800px; height:420px; border:1px solid #696969; padding:60px 35px; }
+
+.con1 p:first-child{ padding-bottom:20px; }
+.con0 p, .con1 p, .con2 p{ font-size: 16px; }
+
+
+
+/* intro_03 테라위치 부분 */
+.box { height:715px; }
+.map { *float:left; }
+
+.info { *float:left; }
+.info table { width:100%; margin-top:10px; border-top:2px solid #e77c71; }
+.info tr { height:50px; border-bottom:1px solid #e8ebef; }
+.info tr:last-child { border-bottom:1px solid #b5b5b5; }
+.info th { width:200px; background-color:#fdf2f1; }
+.info td { padding-left:30px; text-align:left; }
+
+
+
+

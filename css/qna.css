@@ -1,0 +1,201 @@
+#content #col2{
+  float:left;
+  margin-top: 20px;
+  width:960px;
+  min-height: 558px;
+  font-size:16px;
+}
+#content #col2 #title{
+  margin-left: 15px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+  width: 96%;
+  height:25px;
+  border-bottom:1px solid #ccc;
+}
+/* list */
+#col2 #qna_row{
+  height: 50px;
+  width: 96%;
+  margin-left: 15px;
+}
+#list_search{
+  width: 100%;
+
+}
+#list_search #list_search_total_text{
+  margin-bottom: 10px;
+}
+#list_search #list_search_select_menu{
+  float: left;
+}
+#list_search #list_search_input input[type=text]{
+  margin-left: 5px;
+  padding-left: 5px;
+  width: 500px;
+}
+#list_search #list_search_input input[type=submit]{
+  margin-left: 5px;
+  width: 100px;
+}
+#list_top_title ul{
+  margin-top: 10px;
+  height: 30px;
+  line-height: 30px;
+  background-color: #eee;
+  font-size:14px;
+}
+#list_top_title li{
+  float: left;
+  font-weight: bold;
+}
+#list_title1{
+  margin-left: 5px;
+  margin-right: 250px;
+}
+#list_title2{
+  margin-left: 5px;
+  margin-right: 255px;
+}
+#list_title3{
+  margin-left: 5px;
+  margin-right: 140px;
+}
+#list_title4{
+  margin-left: 5px;
+  margin-right: 60px;
+}
+
+
+#list_content #list_item{
+  font-size:16px;
+  padding: 7px 0 6px;
+  height: 20px;
+  line-height: 20px;
+  border-bottom: 1px solid #aaa;
+  text-align: center;
+}
+#list_content #list_item #list_item1{
+  float: left;
+  width: 30px;
+
+}
+#list_content #list_item #list_item2{
+  float: left;
+  width: 480px;
+  margin: 0 0 0 30px;
+  text-align: left;
+}
+#list_content #list_item #list_item3{
+  float: left;
+  width: 190px;
+  text-align: left;
+}
+#list_content #list_item #list_item4{
+  float: left;
+  width: 140px;
+  text-align: center;
+}
+#list_content #list_item #list_item5{
+  float: left;
+  width: 51px;
+  text-align: center;
+}
+#page_num{
+  text-align: center;
+  margin-top: 10px;
+}
+#button{
+  float: right;
+}
+#button a{
+  margin-right: 10px;
+  text-decoration:none;
+  color: #333;
+  font-size: 15px;
+}
+/* write */
+#col2 #write_row{
+  font-size:16px;
+  width: 96%;
+  margin-left: 15px;
+  text-align: left;
+}
+.write_line{
+  border-top: 1px solid #eee;
+  height: 1px;
+  margin: 6px 0 5px;
+}
+#write_row1 span{
+  padding-right: 5px;
+  margin-right: 4px;
+  border-right: 1px solid #aaa;
+  line-height: 25px;
+}
+#write_row2 input{
+  width: 850px;
+  padding: 1px 5px;
+  border-radius: 2px;
+  border: 1px solid #aaa;
+}
+#write_row3{
+  height: auto;
+}
+#write_row3 span{
+  float: left;
+  vertical-align:top;
+}
+#write_row3 textarea{
+  border-radius: 2px;
+  padding: 1px 5px;
+  line-height: 160%;
+  border: 1px solid #aaa;
+  margin-left: 4px;
+  width: 850px;
+}
+#write_button{
+  padding: 5px 40px;
+  margin: 30px 0;
+  border-top: 1px solid #eee;
+  text-align: center;
+}
+#write_button input, #write_button a{
+  border: none;
+  background: none;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #333;
+  /*point*/
+}
+/* view */
+#col2 #title h3{
+  float: left;
+}
+#col2 #title span{
+  float: right;
+}
+#view_content{
+  font-size:16px;
+  margin-left: 15px;
+  line-height: 160%;
+  padding-bottom: 10px;
+  width: 96%;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
+  text-align: left;
+}
+#view_button{
+  font-size:16px;
+  width: 96%;
+  margin-left: 15px;
+  margin-top: 15px;
+  text-align: right;
+}
+#view_button a{
+  font-size:16px;
+  margin-left: 5px;
+  color: #994;
+  text-decoration: none;
+  font-size: 14px;
+}
